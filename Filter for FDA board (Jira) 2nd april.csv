@@ -1,0 +1,145 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Fix versions,Components,Components,Components,Components,Components,Components,Components,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Approvals),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Focus Areas),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Create test cases for for first name text field,FDA-10,10046,Task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:24 AM,01/Apr/26 11:25 AM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3cf0eef0,,,,,,,,,,,,,,,,0|hzzzyf:,,,,,,,,,,,,,,,10043,FDA-8,Food Ordering user registration,To Do,01/Apr/26 11:24 AM
+TASK  TO REVIEW THE TEST CASES,FDA-7,10010,Task,TESTCASE REVIEW,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Highest,,Naman,712020:e723842f-7b29-4ae9-80d1-c1f1b9729a3d,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 11:59 AM,01/Apr/26 10:32 AM,31/Mar/26 2:08 PM,,RELEASE 1,CONFIRM PASSWORD TEXT FIELD,EMAIL TEXT FIELD,FULL NAME TEXT FIELD,MOBILE NUMBER TEXT FIELD,PASSWORD TEXT FIELD,SIGN UP BUTTON,TERMS AND CONDITIONS,01/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,31/Mar/26 11:59 AM;cd2c2804-dc8f-4055-8011-dd87bde88fd0;defect reporting.xlsx;https://harshvpatel2807.atlassian.net/rest/api/3/attachment/content/10001,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2249efc5,,,,,,,,,,,,,,,,0|hzzzyn:,,,,31/Mar/26 12:00 AM,,,,,,,,,,,,,,In Progress,31/Mar/26 12:00 PM
+AS A USER I SHOULD BE ABLE TO REGISTER  INTO THE APPLICATION,FDA-2,10005,Story,TEST CASE DOCUMENTATION,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:08 AM,01/Apr/26 10:32 AM,31/Mar/26 10:36 AM,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@9a0a8c9,,,,,,,,,,,,,,,,0|hzzzyv:,,,,,,,,,,,,,,,10004,FDA-1,USER MANAGEMENT,In Progress,31/Mar/26 2:03 PM
+AS A USER I SHOULD BE ABLE TO  UPDATE THE PASSWORD USING UPDATE PASSWORD,FDA-4,10007,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:09 AM,01/Apr/26 10:32 AM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5e659989,,,,,,,,,,,,,,,,0|hzzzz3:,,,,,,,,,,,,,,,10004,FDA-1,USER MANAGEMENT,To Do,31/Mar/26 10:09 AM
+FUNCTIONALITY TEST CASES FOR REGISTER MODULE,FDA-6,10009,Task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,High,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:42 AM,01/Apr/26 10:31 AM,31/Mar/26 11:48 AM,,RELEASE 1,CONFIRM PASSWORD TEXT FIELD,EMAIL TEXT FIELD,FULL NAME TEXT FIELD,MOBILE NUMBER TEXT FIELD,PASSWORD TEXT FIELD,SIGN UP BUTTON,TERMS AND CONDITIONS,01/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@33f9d1d0,,,,,,,,,,,,,,,,0|hzzzzb:,,,,31/Mar/26 12:00 AM,,,,,,,,,,,,,,To Do,31/Mar/26 10:42 AM
+AS A USER I SHOULD BE ABLE TO UPDATE THE ACCOUNT,FDA-5,10008,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:10 AM,01/Apr/26 10:31 AM,01/Apr/26 10:29 AM,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a22cd06,,,,,,,,,,,,,,,,0|hzzzzj:,,,,,,,,,,,,,,,10004,FDA-1,USER MANAGEMENT,To Do,31/Mar/26 10:10 AM
+AS A USER I SHOULD BE ABLE TO LOGIN TO THE APPLICATION,FDA-3,10006,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:09 AM,01/Apr/26 10:31 AM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@61ae01f3,,,,,,,,,,,,,,,,0|hzzzzr:,,,,,,,,,,,,,,,10004,FDA-1,USER MANAGEMENT,To Do,31/Mar/26 10:09 AM
+USER MANAGEMENT,FDA-1,10004,Epic,Done,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,Done,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,31/Mar/26 10:07 AM,01/Apr/26 10:56 AM,,01/Apr/26 10:56 AM,RELEASE 1,,,,,,,,04/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a28b797,,,,,ghx-label-1,,To Do,,,,dark_grey,,,,,0|i0001a:,,,FDA Sprint 1,31/Mar/26 12:00 AM,,,,,,,,,,10008_*:*_1_*:*_2849_*|*_3_*:*_3_*:*_50736_*|*_10004_*:*_3_*:*_87851273_*|*_10006_*:*_2_*:*_3761_*|*_10005_*:*_1_*:*_1482667,,,,Done,01/Apr/26 10:56 AM
+Food Ordering user registration,FDA-8,10043,Epic,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 10:34 AM,01/Apr/26 10:35 AM,01/Apr/26 10:34 AM,,,,,,,,,,02/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1375759e,,,,,ghx-label-6,,To Do,,,,green,,,,,0|i0001i:,,,FDA Sprint 1,01/Apr/26 12:00 AM,,,,,,,,,,,,,,To Do,01/Apr/26 10:34 AM
+user  registration,FDA-9,10045,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:01 AM,01/Apr/26 11:01 AM,,,RELEASE 1,,,,,,,,02/Apr/26 12:00 AM,0,h3. ,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3f93c00b,,,,,,,,,,,,,,,,0|i0001q:,,,FDA Sprint 1,01/Apr/26 12:00 AM,,,,,,,,,,,10043,FDA-8,Food Ordering user registration,To Do,01/Apr/26 11:01 AM
+write test cases for full  name text field,FDA-11,10047,Task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:26 AM,01/Apr/26 12:31 PM,01/Apr/26 12:30 PM,,RELEASE 1,,,,,,,,02/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5b97f4e7,,,,,,,,,,,,,,,,0|i0001y:,,,FDA Sprint 1,01/Apr/26 12:00 AM,,,,,,,,,,,10043,FDA-8,Food Ordering user registration,To Do,01/Apr/26 11:26 AM
+write test cases for first name text field,FDA-12,10049,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:33 AM,01/Apr/26 11:34 AM,01/Apr/26 11:39 AM,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@20a9dd98,,,,,,,,,,,,,,,,0|i00026:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:33 AM
+write test cases for last name text field,FDA-13,10051,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:34 AM,01/Apr/26 12:29 PM,01/Apr/26 11:40 AM,,,,,,,,,,,0,"* Accepts alphabets and space only.
+* Minimum 3 characters, maximum 50 characters.
+* Numbers and special characters not allowed.
+* Cannot be blank.
+* Inline error for invalid input.",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@58a85100,,,,,,,,,,,,,,,,0|i0002e:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:34 AM
+write test cases for email,FDA-14,10053,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Naman,712020:e723842f-7b29-4ae9-80d1-c1f1b9729a3d,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:34 AM,01/Apr/26 12:29 PM,01/Apr/26 11:40 AM,,,,,,,,,,,0,"* Must be valid format (example: [user@mail.com|mailto:user@mail.com]).
+* Minimum 5 characters, maximum 50 characters.
+* Cannot be blank.
+* Duplicate email → “Email already registered.”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a8fa1e4,,,,,,,,,,,,,,,,0|i0002m:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:34 AM
+write test cases for mobile number and otp,FDA-15,10055,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:35 AM,01/Apr/26 12:29 PM,01/Apr/26 11:40 AM,,,,,,,,,,,0,"h3. Summary
+
+This issue involves writing test cases for validating mobile numbers and OTP functionality.
+
+h3. Context
+
+The mobile number input must adhere to specific criteria to ensure proper functionality.
+
+h3. Acceptance criteria
+
+* Accepts 10-digit numeric values only.
+* Cannot contain alphabets or special characters.
+* Cannot be blank.
+* OTP is sent after entering the mobile number.
+
+h3. Other information
+
+h4. OTP Field
+
+* 6-digit numeric.
+* Valid for 5 minutes.
+* Incorrect OTP → “Invalid OTP.”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7401f882,,,,,,,,,,,,,,,,0|i0002u:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:35 AM
+create test cases for password text field,FDA-16,10057,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Naman,712020:e723842f-7b29-4ae9-80d1-c1f1b9729a3d,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:35 AM,01/Apr/26 12:29 PM,01/Apr/26 11:41 AM,,,,,,,,,,,0,"h3. Summary
+
+Create test cases for the password text field to ensure it meets specific requirements.
+
+h3. Context
+
+The password text field must adhere to defined security standards. These standards include character requirements and strength indicators.
+
+h3. Acceptance criteria
+
+* Minimum length of 8 characters and a maximum of 20 characters.
+* Must include:
+** 1 uppercase letter
+** 1 lowercase letter
+** 1 number
+** 1 special character
+* Password cannot be blank.
+* Display password strength as Weak, Medium, or Strong.
+* Accept passwords only when classified as Strong.
+
+h3. Other information
+
+N/A",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2b4a6673,,,,,,,,,,,,,,,,0|i00032:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:35 AM
+create text field for confirm password text field,FDA-17,10059,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:36 AM,01/Apr/26 12:29 PM,01/Apr/26 11:42 AM,,,,,,,,,,,0,"* Must match password field.
+* Cannot be blank.
+* Error → “Passwords do not match.”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1789dd5c,,,,,,,,,,,,,,,,0|i0003a:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:36 AM
+create a test cases for terms and condition checkbox,FDA-18,10061,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:37 AM,01/Apr/26 11:43 AM,01/Apr/26 11:43 AM,,,,,,,,,,,0,"* Must be checked to enable Sign Up.
+* Contains clickable link.",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2cb53154,,,,,,,,,,,,,,,,0|i0003i:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:37 AM
+write test cases for signup button,FDA-19,10063,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 11:37 AM,01/Apr/26 11:43 AM,01/Apr/26 11:43 AM,,,,,,,,,,,0,"* Enabled only when all inputs valid and OTP verified.
+* On click:
+** Valid → Account created, User ID generated
+** Invalid → Inline error",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@48e1c463,,,,,,,,,,,,,,,,0|i0003q:,,,FDA Sprint 1,,,,,,,,,,,,10047,FDA-11,write test cases for full  name text field,To Do,01/Apr/26 11:37 AM
+social login,FDA-20,10096,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:02 PM,01/Apr/26 2:26 PM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4e14de50,,,,,,,,,,,,,,,,0|i0003y:,,,FDA Sprint 1,,,,,,,,,,,,10043,FDA-8,Food Ordering user registration,To Do,01/Apr/26 2:02 PM
+login using social platforms,FDA-21,10097,Task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:04 PM,01/Apr/26 2:26 PM,01/Apr/26 2:05 PM,,,,,,,,,,,0,"h3. Summary
+
+Implement login functionality using social platforms such as Google and Facebook.
+
+h3. Context
+
+The goal is to allow users to log in only through authenticated social accounts. This will streamline the login process and enhance user experience.
+
+h3. Acceptance criteria
+
+* Users can log in using Google or Facebook.
+* Only authenticated logins are permitted.
+* On first login, an auto profile creation occurs.
+* If a user tries to log in with an account that already exists, display the message: “Account already exists”.
+
+h3. Other information
+
+N/A",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6fab8348,,,,,,,,,,,,,,,,0|i00046:,,,FDA Sprint 1,,,,,,,,,,,,10043,FDA-8,Food Ordering user registration,To Do,01/Apr/26 2:04 PM
+social login using different apps,FDA-22,10099,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,Chirag Malik,712020:dea5362e-d32b-453d-b8eb-43caed01a964,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:06 PM,01/Apr/26 2:07 PM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@548604bf,,,,,,,,,,,,,,,,0|i0004e:,,,FDA Sprint 1,,,,,,,,,,,,10097,FDA-21,login using social platforms,To Do,01/Apr/26 2:06 PM
+user login,FDA-23,10100,Epic,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:10 PM,01/Apr/26 2:10 PM,,,RELEASE 1,,,,,,,,02/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@54188f34,,,,,ghx-label-11,,To Do,,,,teal,,,,,0|i0004m:,,,FDA Sprint 1,01/Apr/26 12:00 AM,,,,,,,,,,,,,,To Do,01/Apr/26 2:10 PM
+user login,FDA-24,10101,Story,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:12 PM,01/Apr/26 2:13 PM,01/Apr/26 2:13 PM,,RELEASE 1,,,,,,,,02/Apr/26 12:00 AM,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5f2fd623,,,,,,,,,,,,,,,,0|i0004u:,,,FDA Sprint 1,01/Apr/26 12:00 AM,,,,,,,,,,,10100,FDA-23,user login,To Do,01/Apr/26 2:12 PM
+user login phone mail,FDA-25,10102,Task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:15 PM,01/Apr/26 2:16 PM,01/Apr/26 2:15 PM,,RELEASE 1,,,,,,,,,0,"h3. 2.1.1 Email Field
+
+* Same validation as registration
+* Not registered → “Email not found”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@50cd6b6c,,,,,,,,,,,,,,,,0|i00052:,,,FDA Sprint 1,,,,,,,,,,,,10100,FDA-23,user login,To Do,01/Apr/26 2:15 PM
+user login email field,FDA-26,10104,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:16 PM,01/Apr/26 2:18 PM,01/Apr/26 2:17 PM,,,,,,,,,,,0,"h3. 2.1.2 Mobile Number Field
+
+* 10-digit numeric only
+* Cannot be blank
+* Not registered → “Number not found”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@31263707,,,,,,,,,,,,,,,,0|i0005a:,,,FDA Sprint 1,,,,,,,,,,,,10102,FDA-25,user login phone mail,To Do,01/Apr/26 2:16 PM
+mobile number,FDA-27,10106,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:17 PM,01/Apr/26 2:17 PM,,,,,,,,,,,,0,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6bcc0e1c,,,,,,,,,,,,,,,,0|i0005i:,,,FDA Sprint 1,,,,,,,,,,,,10102,FDA-25,user login phone mail,To Do,01/Apr/26 2:17 PM
+password,FDA-28,10108,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:17 PM,01/Apr/26 2:21 PM,01/Apr/26 2:20 PM,,,,,,,,,,,0,"h3. 2.1.3 Password Field
+
+* Cannot be blank
+* Incorrect → “Incorrect password”",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@46109eb3,,,,,,,,,,,,,,,,0|i0005q:,,,FDA Sprint 1,,,,,,,,,,,,10102,FDA-25,user login phone mail,To Do,01/Apr/26 2:17 PM
+login button,FDA-29,10110,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:17 PM,01/Apr/26 2:21 PM,01/Apr/26 2:21 PM,,,,,,,,,,,0,"h3. Summary
+
+The issue concerns the login button's function in version 2.1.4.
+
+h3. Context
+
+The login button activates only with valid user inputs.
+
+h3. Acceptance criteria
+
+* Login button enables only with valid inputs.
+* Clicking logs in the user.
+* Invalid inputs show inline errors.
+
+h3. Other information
+
+N/A",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3b9aaf41,,,,,,,,,,,,,,,,0|i0005y:,,,FDA Sprint 1,,,,,,,,,,,,10102,FDA-25,user login phone mail,To Do,01/Apr/26 2:17 PM
+forgot password,FDA-30,10112,Sub-task,To Do,FDA,FOOD DELEIVERY APPLICATION,software,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,Medium,,,,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,01/Apr/26 2:17 PM,01/Apr/26 2:22 PM,01/Apr/26 2:22 PM,,,,,,,,,,,0,"h3. Summary
+
+The issue is about the ""Forgot Password"" feature. It involves sending a reset link or OTP to users.
+
+h3. Context
+
+This feature requires users to have a registered email or mobile number for password recovery.
+
+h3. Acceptance criteria
+
+* The system must send a reset link or OTP.
+* Users must have a registered email or mobile number.
+
+h3. Other information
+
+N/A",,Harsh Patel,712020:8cf7fc34-2011-410b-894b-ba0be374bcf3,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26ca983f,,,,,,,,,,,,,,,,0|i00066:,,,FDA Sprint 1,,,,,,,,,,,,10102,FDA-25,user login phone mail,To Do,01/Apr/26 2:17 PM
